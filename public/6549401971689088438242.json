@@ -1,0 +1,184 @@
+{
+  "project_info": {
+    "project_number": "814362423618",
+    "project_id": "pictartle",
+    "storage_bucket": "pictartle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814362423618:android:599f8db490d34382e158db",
+        "android_client_info": {
+          "package_name": "com.pictartle.american"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMhSSxBR63rs9Cv_wITLMj_A-qI0HgxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814362423618:android:80b592cff08eab33e158db",
+        "android_client_info": {
+          "package_name": "com.pictartle.baseball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMhSSxBR63rs9Cv_wITLMj_A-qI0HgxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814362423618:android:52799bafc3aa0409e158db",
+        "android_client_info": {
+          "package_name": "com.pictartle.basketball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMhSSxBR63rs9Cv_wITLMj_A-qI0HgxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814362423618:android:cce0fd5ddb7316dde158db",
+        "android_client_info": {
+          "package_name": "com.pictartle.formula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMhSSxBR63rs9Cv_wITLMj_A-qI0HgxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814362423618:android:117d7b627f97bd42e158db",
+        "android_client_info": {
+          "package_name": "com.pictartle.hockey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMhSSxBR63rs9Cv_wITLMj_A-qI0HgxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814362423618:android:678b4ff20b8f45d9e158db",
+        "android_client_info": {
+          "package_name": "com.pictartle.kaligrafi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMhSSxBR63rs9Cv_wITLMj_A-qI0HgxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814362423618-f9q98kqrhemm0qmtrp4pgh4ivrqf4q05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
